@@ -1,0 +1,18 @@
+# ShadowRecon - Advanced Security & Forensics Toolkit
+# Install: pip install -r requirements.txt
+
+# Core Framework
+colorama>=0.4.6
+requests>=2.31.0
+
+# OSINT Dependencies
+python-whois>=0.7.10
+dnspython>=2.4.0
+phonenumbers>=8.13.0
+
+# Forensics Dependencies
+Pillow>=10.0.0
+ssdeep>=3.4
+
+# Optional - for PCAP analysis
+scapy>=2.5.0
